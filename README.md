@@ -1,6 +1,6 @@
 # myCobot: From 0 to 1
 
-![my](./img/rumen.jpg)
+![my](./img/rumen_e.jpg)
 
 ### 1.1 Why do we design myCobot
 > **An entry-level collaborative robot arm** that everyone can learn and play
