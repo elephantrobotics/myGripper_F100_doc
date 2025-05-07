@@ -2,4 +2,4 @@
 3D模型可联系售后人员获取
 <!-- [模型下载地址](https://download.elephantrobotics.com/Product_3d_files/myGripper%20H100-R.STEP) -->
 
-<img src="../img/3D1.png" width="100%" >
+<img src="../img/3d1.png" width="100%" >
