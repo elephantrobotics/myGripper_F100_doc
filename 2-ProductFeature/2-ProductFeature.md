@@ -43,4 +43,4 @@
 
 ## 3 结构参数
 
-<img src="../img/3D1.png" width="100%" >
+<img src="../img/3d1.png" width="100%" >
