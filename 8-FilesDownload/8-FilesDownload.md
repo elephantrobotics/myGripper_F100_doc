@@ -7,7 +7,7 @@
 ## 2D图纸下载
 [MyGripper F100图纸跳转链接](https://docs.elephantrobotics.com/docs/myGripper-F100-cn/information/MyGripper-F100.PDF.pdf)<br>
 [MyGripper F100正装发兰图纸跳转链接](https://docs.elephantrobotics.com/docs/myGripper-F100-cn/information/MyGripper-F100-正装法兰.PDF.pdf)<br>
-[MyGripper F100侧装发兰图纸跳转链接]https://docs.elephantrobotics.com/docs/myGripper-F100-cn/information/MyGripper-F100-侧装法兰.PDF.pdf)<br>
+[MyGripper F100侧装发兰图纸跳转链接](https://docs.elephantrobotics.com/docs/myGripper-F100-cn/information/MyGripper-F100-侧装法兰.PDF.pdf)<br>
 
 
 
