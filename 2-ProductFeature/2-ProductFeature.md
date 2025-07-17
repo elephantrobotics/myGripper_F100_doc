@@ -39,4 +39,4 @@ Please distinguish the line sequence according to the line mark. If the line mar
 
 ## 3 Structural parameters
 
-<img src="../img/3D1.png" width="100%" >
+<img src="../img/3d1.png" width="100%" >
