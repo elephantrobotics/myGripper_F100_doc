@@ -10,7 +10,6 @@
 | Service life | 300,000 openings and closings |
 | Drive mode | Electric drive |
 | Transmission mode | Gear + connecting rod |
-| Dimensions | 158x105x55mm |
 | Weight | 340 g |
 | Rated load | 500g |
 | Working voltage | 24V |
