@@ -18,7 +18,7 @@
 | Environment requirements | Normal temperature and pressure |
 | Control interface | RS485/IO control/button control |
 | Cable interface model | M8-8PIN |
-
+ 
 **Pin sequence description**
 
 <img src="../img/IO1.png" width="50%" >
