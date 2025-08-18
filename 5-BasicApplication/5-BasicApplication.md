@@ -71,11 +71,11 @@ Open-设置夹爪张开，Close-设置夹爪闭合，Pelease-设置夹爪不使�
 
 <img src="../img/pm9.png" width="50%" >
 
-点击 Firmware 查看固件版本与设备 ID 指令中的 ID
+点击 Firmware 查看夹爪版本与夹爪 ID 指令中的 ID
 
 <img src="../img/pm10.png" width="50%" >
 
-点击 Servomotor 查看电机版本与 ID，ID 无法修改
+点击 Servomotor 查看舵机机版本与 ID，ID 无法修改
 
 <img src="../img/pm11.png" width="50%" >
 
