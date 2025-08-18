@@ -7,7 +7,7 @@
   * [ 屏幕控制](5-BasicApplication/5.1.md)
   * [ 自定义协议控制](5-BasicApplication/5.2.md)
   * [ modbus rtu协议控制](5-BasicApplication/5.3.md)
-* [6 python SDK 开发指南](6-SDKDevelopment/6-SDKDevelopment.md)
+* [6 python SDK 开发指南]()
   * [ pymycobot库控制](6-SDKDevelopment/6.1.md)
   * [ python USB-485库控制](6-SDKDevelopment/6.2.md)
   * [ ros控制](6-SDKDevelopment/6.3.md)
