@@ -11,7 +11,7 @@ myCobot Pro 力控夹爪带有屏幕显示功能，并且屏幕下带有按键�
 |设置波特率界面（Modbus Config）|查看和更改设备波特率|
 |IO 使能界面（IO Config）|查看和使能 IO，默认 IO 是使能状态|
 |夹爪控制界面（Manual Config）|Open-控制夹爪张开<br>Close-控制夹爪闭合<br>Release-夹爪不使能（这时候夹爪就不会有扭力，可以自由摆动爪）<br>Hold - 夹爪使能（给夹爪使能，这时候夹爪存在扭力）|
-|版本信息界面（Information）|Firmware - 固件版本号<br>Servomotor - 夹爪版本号与夹爪 ID|
+|版本信息界面（Information）|Firmware - 夹爪版本号与夹爪ID<br>Servomotor - 舵机版本号与舵机ID|
 
 **主界面**
 
