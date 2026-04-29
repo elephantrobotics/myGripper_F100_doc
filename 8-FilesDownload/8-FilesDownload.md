@@ -12,4 +12,4 @@
 
 
 ## 3D图纸下载
-[MyGripper F100.STEP文件跳转链接](https://docs.elephantrobotics.com/docs/myGripper-F100-cn/information/MyGripper-F100.STEP)<br>
+[MyGripper F100.STEP文件跳转链接](../information/MyGripper%20F100.STEP)<br>
