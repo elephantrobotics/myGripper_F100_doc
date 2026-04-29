@@ -13,4 +13,4 @@
 
 
 ## 3D Drawing Download
-[MyGripper F100.STEP File jump link](https://docs.elephantrobotics.com/docs/myGripper-F100-en/information/MyGripper-F100.STEP)<br>
+[MyGripper F100.STEP File jump link](../information/MyGripper%20F100.STEP)<br>
