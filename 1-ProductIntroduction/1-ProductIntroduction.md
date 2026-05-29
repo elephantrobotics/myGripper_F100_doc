@@ -11,8 +11,6 @@ ER Mercury A/B/X series
 
 ER myCobot Pro 630
 
-ER myCobot Pro 600
-
 Other general robots
 
 # 3 Applicable scenarios
