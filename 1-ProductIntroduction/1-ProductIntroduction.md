@@ -12,8 +12,6 @@ ER Mercury A/B/X系列
 
 ER myCobot Pro 630
 
-ER myCobot Pro 600
-
 其他通用机器人
 
 # 3 适用场景
